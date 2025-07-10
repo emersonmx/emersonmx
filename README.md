@@ -1,6 +1,8 @@
+<!--
 <div align="center">
   <img height="350" alt="image" src="https://github.com/user-attachments/assets/565f92ec-074d-4da7-a41a-19a80a3cc926" />
 </div>
+-->
 
 <h3 align="center">
   Software Engineer
