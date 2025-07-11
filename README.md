@@ -39,11 +39,11 @@
 
 ## 📌 Pinned Repositories
 
-[![sandbox](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=sandbox)](https://github.com/emersonmx/sandbox)
-[![tp](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=tp)](https://github.com/emersonmx/tp)
-[![skelly](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=skelly)](https://github.com/emersonmx/skelly)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=dotfiles)](https://github.com/emersonmx/dotfiles)
-[![scripts](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=scripts)](https://github.com/emersonmx/scripts)
+[![sandbox](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=sandbox&theme=onedeark&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/sandbox)
+[![tp](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=tp&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/tp)
+[![skelly](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=skelly&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/skelly)
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=dotfiles&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/dotfiles)
+[![scripts](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=scripts&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/scripts)
 
 <!--
 **emersonmx/emersonmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
