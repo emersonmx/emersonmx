@@ -39,65 +39,11 @@
 
 ## 📌 Pinned Repositories
 
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80">
-  			<a href="https://github.com/emersonmx/sandbox">
-          sandbox
-        </a>
-      </td>
-      <td>
-        Repository with projects and tests of technologies that I currently study.
-      </td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80">
-  			<a href="https://github.com/emersonmx/tp">
-          tp
-        </a>
-      </td>
-      <td>
-        A command-line tool designed to manage and load your tmux sessions from configuration files.
-      </td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80">
-  			<a href="https://github.com/emersonmx/skelly">
-          skelly
-        </a>
-      </td>
-      <td>
-        A simple scaffold tool written in Rust
-      </td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80">
-  			<a href="https://github.com/emersonmx/dotfiles">
-          dotfiles
-        </a>
-      </td>
-      <td>
-        My setup configs!
-      </td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80">
-  			<a href="https://github.com/emersonmx/scripts">
-          scripts
-        </a>
-      </td>
-      <td>
-        My scripts!
-      </td>
-		</tr>
-	</tbody>
-</table>
+[![sandbox](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=sandbox)](https://github.com/emersonmx/sandbox)
+[![tp](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=tp)](https://github.com/emersonmx/tp)
+[![skelly](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=skelly)](https://github.com/emersonmx/skelly)
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=dotfiles)](https://github.com/emersonmx/dotfiles)
+[![scripts](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=scripts)](https://github.com/emersonmx/scripts)
 
 <!--
 **emersonmx/emersonmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
