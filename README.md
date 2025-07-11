@@ -9,8 +9,8 @@
 </h3>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emersonmx&theme=onedark&show_icons=true&count_private=true&bg_color=00000000&hide_border=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmx&layout=compact&theme=onedark&bg_color=00000000&hide_border=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emersonmx&theme=onedark&show_icons=true&bg_color=00000000&hide_border=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmx&theme=onedark&show_icons=true&layout=compact&hide=css&bg_color=00000000&hide_border=true" />
 </div>
 
 ### ℹ️ About me
