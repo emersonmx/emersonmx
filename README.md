@@ -29,6 +29,8 @@
 
 ### 🌱 I’m currently learning
 
+- [Concurrency](https://doc.rust-lang.org/stable/book/ch16-00-concurrency.html)
+- [Async Rust](https://doc.rust-lang.org/stable/book/ch17-00-async-await.html)
 - [Tokio](https://tokio.rs/)
 - [hyper](http://hyper.rs/)
 - [Ratatui](https://ratatui.rs/)
