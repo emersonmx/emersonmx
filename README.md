@@ -30,7 +30,7 @@
 ### 🌱 I’m currently learning
 
 - Async programming with Rust
-- TUI programming with Rust
+- CLI and TUI programming with Rust
 - Web development with Go adn chi
 
 ### 📫 How to reach me
