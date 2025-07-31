@@ -29,7 +29,9 @@
 
 ### 🌱 I’m currently learning
 
-- [Ratatui](https://ratatui.rs/)
+- Async programming with Rust
+- TUI programming with Rust
+- Web development with Go adn chi
 
 ### 📫 How to reach me
 
