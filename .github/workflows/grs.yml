@@ -14,7 +14,7 @@ jobs:
 
     env:
       DEFAULT_THEME: theme=onedark&bg_color=00000000&hide_border=true
-      BASE_PIN_CARD_OPTIONS: username=${{ github.repository_owner }}&description_lines_count=3
+      BASE_PIN_CARD_OPTIONS: username=${{ github.repository_owner }}
 
     steps:       
       - uses: actions/checkout@v6
