@@ -23,7 +23,6 @@
 ### 🔭 I’m currently working on
 
 - [charlene](https://github.com/emersonmx/charlene)
-- [gdfmt](https://github.com/emersonmx/gdfmt)
 - [tp](https://github.com/emersonmx/tp)
 - [skelly](https://github.com/emersonmx/skelly)
 
@@ -39,8 +38,8 @@
 ## 📌 Pinned Repositories
 
 [![sandbox](./profile/pin-sandbox-stats.svg)](https://github.com/emersonmx/sandbox)
-[![charlene](./profile/pin-charlene-stats.svg)](https://github.com/emersonmx/charlene)
 [![tp](./profile/pin-tp-stats.svg)](https://github.com/emersonmx/tp)
+[![charlene](./profile/pin-charlene-stats.svg)](https://github.com/emersonmx/charlene)
 [![skelly](./profile/pin-skelly-stats.svg)](https://github.com/emersonmx/skelly)
 [![dotfiles](./profile/pin-dotfiles-stats.svg)](https://github.com/emersonmx/dotfiles)
 [![scripts](./profile/pin-scripts-stats.svg)](https://github.com/emersonmx/scripts)
