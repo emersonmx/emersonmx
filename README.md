@@ -38,11 +38,12 @@
 
 ## 📌 Pinned Repositories
 
-[![sandbox](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=sandbox&theme=onedeark&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/sandbox)
-[![tp](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=tp&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/tp)
-[![skelly](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=skelly&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/skelly)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=dotfiles&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/dotfiles)
-[![scripts](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=scripts&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/scripts)
+[![sandbox](./profile/pin-sandbox-stats.svg)](https://github.com/emersonmx/sandbox)
+[![charlene](./profile/pin-charlene-stats.svg)](https://github.com/emersonmx/charlene)
+[![tp](./profile/pin-tp-stats.svg)](https://github.com/emersonmx/tp)
+[![skelly](./profile/pin-skelly-stats.svg)](https://github.com/emersonmx/skelly)
+[![dotfiles](./profile/pin-dotfiles-stats.svg)](https://github.com/emersonmx/dotfiles)
+[![scripts](./profile/pin-scripts-stats.svg)](https://github.com/emersonmx/scripts)
 
 <!--
 **emersonmx/emersonmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
