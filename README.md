@@ -22,7 +22,7 @@
 
 ### 🔭 I’m currently working on
 
-- [charlotte](https://github.com/emersonmx/charlotte)
+- [charlene](https://github.com/emersonmx/charlene)
 - [gdfmt](https://github.com/emersonmx/gdfmt)
 - [tp](https://github.com/emersonmx/tp)
 - [skelly](https://github.com/emersonmx/skelly)
