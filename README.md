@@ -44,6 +44,8 @@
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=dotfiles&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/dotfiles)
 [![scripts](https://github-readme-stats.vercel.app/api/pin/?username=emersonmx&repo=scripts&bg_color=00000000&hide_border=true)](https://github.com/emersonmx/scripts)
 
+![Stats](./profile/stats.svg)
+
 <!--
 **emersonmx/emersonmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
