@@ -14,9 +14,9 @@ jobs:
 
     env:
       DEFAULT_THEME: theme=onedark&bg_color=00000000&hide_border=true
-      BASE_PIN_CARD_OPTIONS: username=${{ github.repository_owner }}&${{ env.DEFAULT_THEME }}&description_lines_count=3
+      BASE_PIN_CARD_OPTIONS: username=${{ github.repository_owner }}&description_lines_count=3
 
-    steps:
+    steps:       
       - uses: actions/checkout@v6
 
       - name: Generate stats card
@@ -39,7 +39,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&repo=sandbox
+          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&${{ env.DEFAULT_THEME }}&repo=sandbox
           path: profile/pin-sandbox-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -47,7 +47,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&repo=charlene
+          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&${{ env.DEFAULT_THEME }}&repo=charlene
           path: profile/pin-charlene-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -55,7 +55,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&repo=tp
+          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&${{ env.DEFAULT_THEME }}&repo=tp
           path: profile/pin-tp-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -63,7 +63,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&repo=skelly
+          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&${{ env.DEFAULT_THEME }}&repo=skelly
           path: profile/pin-skelly-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -71,7 +71,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&repo=dotfiles
+          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&${{ env.DEFAULT_THEME }}&repo=dotfiles
           path: profile/pin-dotfiles-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -79,7 +79,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&repo=scripts
+          options: ${{ env.BASE_PIN_CARD_OPTIONS }}&${{ env.DEFAULT_THEME }}&repo=scripts
           path: profile/pin-scripts-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
