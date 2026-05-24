@@ -31,6 +31,54 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate sandbox pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=sandbox&theme=onedeark&bg_color=00000000&hide_border=true
+          path: profile/pin-sandbox-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate charlene pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=charlene&bg_color=00000000&hide_border=true
+          path: profile/pin-charlene-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate tp pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=tp&bg_color=00000000&hide_border=true
+          path: profile/pin-tp-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate skelly pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=skelly&bg_color=00000000&hide_border=true
+          path: profile/pin-skelly-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dotfiles pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=dotfiles&bg_color=00000000&hide_border=true
+          path: profile/pin-dotfiles-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate scripts pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=scripts&bg_color=00000000&hide_border=true
+          path: profile/pin-scripts-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
