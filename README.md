@@ -28,8 +28,7 @@
 
 ### 🌱 I’m currently learning
 
-- Async programming with Rust
-- CLI and TUI programming with Rust
+- CLI, TUI, GUI, GameDev with Rust
 
 ### 📫 How to reach me
 
